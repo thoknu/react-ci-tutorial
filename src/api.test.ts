@@ -1,4 +1,3 @@
-/*
 import { describe, expect, it } from "vitest";
 import { Api } from "./api";
 
@@ -15,4 +14,3 @@ describe("Api", () => {
     });
   });
 });
-*/
